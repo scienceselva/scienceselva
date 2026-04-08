@@ -1,33 +1,49 @@
-Hey there !
+👋 Hello there!
 
-Software enthusiast with a strong interest in programming and exploring new technological frontiers. Continuously learning and adapting to new challenges.
-```
-Interested Languages : 
-- Java
-- JavaScript / Reactjs
-- Python
-- Flutter / Dart
-- Shell
+Engineering Leader with a strong focus on building scalable, high-performance systems and driving technology transformation. I specialize in designing robust architectures, modernizing legacy platforms, and delivering enterprise-grade solutions.
 
-### For gigs please send me a request 
-- apps (web or mobile)
-- backend high performing services
-- APIs for AI interfaces
-  
-### Architecture and Desing 
-- aws
-- pcf
-- openshift
-  
-### UI / UX
-- Figma
-- AdobeXD
-- Framer
+I’m passionate about exploring new technologies, prototyping innovative ideas, and solving complex engineering challenges with practical, business-driven approaches.
 
-### Data
-- SQL
-- Postgress
-- MongoDB
+🧠 Core Expertise
+Distributed Systems & Microservices Architecture
+High-Performance Backend Engineering
+Cloud-Native Application Design
+API Strategy & Integration (including AI-driven interfaces)
+Legacy Modernization & Platform Transformation
+🚀 Technology Stack
 
-- xls (macros and data handling)
-```
+💻 Languages & Frameworks
+
+Java (Spring Boot, Microservices)
+JavaScript (React.js)
+Python
+Flutter / Dart
+Shell Scripting
+☁️ Cloud & Platform Engineering
+AWS (Architecture, Deployment, Optimization)
+PCF (Pivotal Cloud Foundry)
+OpenShift / Kubernetes-based platforms
+🏗️ Architecture & System Design
+Scalable & Resilient System Design
+Event-Driven Architectures
+API Gateway & Layered API Strategies
+Observability, Monitoring & Performance Tuning
+🎨 UI / UX & Prototyping
+Figma
+Adobe XD
+Framer
+🗄️ Data Engineering
+Relational Databases (SQL, PostgreSQL)
+NoSQL (MongoDB)
+Data Processing & Analysis (Excel, Macros)
+🤝 Collaboration & Consulting
+
+Open to collaborating on:
+
+Enterprise Application Development (Web & Mobile)
+Scalable Backend Platforms
+Cloud Architecture & System Design
+API Platforms & AI Integrations
+📫 Let’s Connect
+
+If you're building something interesting or need help scaling systems, feel free to reach out or collaborate.
