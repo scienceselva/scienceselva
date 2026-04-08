@@ -1,8 +1,8 @@
 Hey there !
 
 Software enthusiast with a strong interest in programming and exploring new technological frontiers. Continuously learning and adapting to new challenges.
-
-### Interested Languages : 
+```
+Interested Languages : 
 - Java
 - JavaScript / Reactjs
 - Python
@@ -30,3 +30,4 @@ Software enthusiast with a strong interest in programming and exploring new tech
 - MongoDB
 
 - xls (macros and data handling)
+```
