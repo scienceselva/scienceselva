@@ -2,29 +2,29 @@ Hey there !
 
 Software enthusiast with a strong interest in programming and exploring new technological frontiers. Continuously learning and adapting to new challenges.
 
-# Interested Languages : 
+### Interested Languages : 
 - Java
 - JavaScript / Reactjs
 - Python
 - Flutter / Dart
 - Shell
 
-# For gigs please send me a request 
+### For gigs please send me a request 
 - apps (web or mobile)
 - backend high performing services
 - APIs for AI interfaces
   
-# Architecture and Desing 
+### Architecture and Desing 
 - aws
 - pcf
 - openshift
   
-# UI / UX
+### UI / UX
 - Figma
 - AdobeXD
 - Framer
 
-# Data
+### Data
 - SQL
 - Postgress
 - MongoDB
